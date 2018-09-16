@@ -1,0 +1,235 @@
+@import url("http://fonts.googleapis.com/earlyaccess/notokufiarabic.css");
+*:not(i){font-family: 'Noto Kufi Arabic', 'sans-serif' !important;}
+/*body{
+	direction: rtl;
+}*/
+
+.topbar{
+	text-align: right;
+}
+
+.attr-nav{
+	float: left;
+}
+
+i.attr-nav{
+	float: right;
+}
+
+.navbar-header{
+	float: right;
+}
+
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.nav > li {
+    float: right;
+}
+.slider-property{
+	right: 10%;
+}
+.slider-property *{
+	text-align: right;
+}
+.slider-property .btn-more i:first-child{display: none}
+.bg_blue{
+	float: right;
+}
+.info-box {
+    margin: 20px 0;
+    padding: 0 15px;
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+
+.margin{
+	text-align: right;
+}
+
+.uppercase{
+	text-align: center;
+}
+
+.heading_space{
+	text-align: right;
+}
+
+.ads{
+	text-align: right;
+}
+
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: right;
+}
+
+.bottom15{
+	text-align: right;
+}
+
+.footer_panel, .bottom30{
+	text-align: right;
+}
+
+footer .footer_panel .media-body span > i {
+    font-size: 17px;
+    margin-left: 5px;
+    vertical-align: middle;
+    float: right;
+}
+
+ul.social_share, ul.social_share li {
+    display: inline-block;
+    float: left;
+}
+
+.dropdown-menu{
+	text-align: right;
+}
+
+.button_s {
+	background: #fff;
+	color: #3399cc;
+	border: medium none;
+	display: inline-block;
+	height: 40px;
+	left: 14px;
+	line-height: 38px;
+	margin-top: 0;
+	position: absolute;
+	text-align: center;
+	width: 40px;
+	font-size: 22px;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-right: 1px solid #3399cc;
+}
+
+.slick-prev
+{
+	left: 10px;
+}
+.slick-next
+{
+	left: 55px;
+}
+.project-head {
+	border-right: 4px #3399cc solid;
+	border-left: medium none;
+}
+.text-center,.text-left,.text-right{
+	direction: rtl;
+}
+i{
+	float: right;
+	transform: scaleX(-1);
+	margin-left: 3px;
+}
+.col-md-offset-1{
+	margin-right:8.33333333%;
+}
+.search {
+	border: medium none;
+	color: #dbdbdb;
+	font-size: 12px;
+	height: 40px;
+	padding-left: 15px;
+	position: relative;
+	width: 223px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+.text-left{
+	float: right !important;
+}
+.pull-left{
+	float:  right !important;
+}
+.pull-right{
+	float: left !important;
+}
+.info-bo, .icons{
+	float: right;
+}
+.info-box li{
+	padding-right: 10px;
+}
+.icons{
+	transform: scaleX(-1);
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+	left: 1px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height: 40px !important;
+}
+.callus input[type="text"], .callus .keyword-input{
+	text-align: right;
+}
+.select2-container--default .select2-search--inline .select2-search__field{
+	text-align: right;
+	padding-right: 12px;
+}
+.select2-results__option{
+	text-align: right !important;
+}
+.select2-container--default .select2-search--inline .select2-search__field{
+	text-align: right;
+	padding-right: 10px !important;
+}
+.text-right{text-align: left}
+.check-box{
+	float: right;
+}
+.tp_overlay .search-form-group.white > span{
+	float: right;
+	padding-right: 3px;
+	line-height: 1.8;
+}
+.resale-data{
+	right: 0;
+}
+.blue_navi .more-filter .text-1, .blue_navi  .more-filter .text-2, .blue_navi .price, .blue_navi .callus label, .blue_navi .leftLabel, .blue_navi .rightLabel, .blue_navi .search-form-group.white > span, .tp_overlay .search-form-group.white > span, .tp_overlay .more-filter .text-1, .tp_overlay  .more-filter .text-2, .tp_overlay .price, .tp_overlay .callus label, .tp_overlay .leftLabel, .tp_overlay .rightLabel{
+}
+nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
+	float: left;
+	margin-right: 3px;
+}
+.more-filter i{
+	margin-left: 5px;
+}
+.text-1,.text-2{
+	line-height: 2.2;
+}
+.group-button-search{
+	float: right;
+	width: 100%;
+}
+.search{
+	text-align: right;
+}
+.dropdown-menu{
+	right: 0;
+	left: -100%;
+}
+.logo a{right: 0}
+.feature-p-text{
+	text-align: right;
+}
+.feature-p-text > a{
+	left: 0;
+}
+.about-background2{
+	background-position: 0% center;
+}
+.home-nav{
+	width: 100%;
+}
